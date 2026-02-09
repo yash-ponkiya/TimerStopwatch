@@ -19,8 +19,10 @@ const myTabs = () => {
                     component={StopwatchScreen} />
 
             </Tab.Navigator>
+            
         </SafeAreaView>
     )
+
 }
 
 export default myTabs
