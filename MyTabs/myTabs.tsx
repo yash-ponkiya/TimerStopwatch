@@ -17,9 +17,7 @@ const myTabs = () => {
                 <Tab.Screen
                     name="Stopwatch"
                     component={StopwatchScreen} />
-
-            </Tab.Navigator>
-            
+            </Tab.Navigator>    
         </SafeAreaView>
     )
 
